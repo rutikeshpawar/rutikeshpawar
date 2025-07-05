@@ -18,7 +18,7 @@
 
 ### 👥 Customer Segmentation ML Model
 - Python + Clustering + Dashboard Integration
-- [View Project](./3_guardneer-smart-farming) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/raw/934547cee2ba08ed4a6e4b6c13f5a2cacfb97dcf/3_guardneer-smart-farming/Guardneer%20-%20Smart%20Farming%20and%20Water%20Optimization%20Dashboard.png)
+- [View Project](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/tree/2f333579d7c141f362cbf931e772023354a80c20/3_guardneer-smart-farming) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/raw/934547cee2ba08ed4a6e4b6c13f5a2cacfb97dcf/3_guardneer-smart-farming/Guardneer%20-%20Smart%20Farming%20and%20Water%20Optimization%20Dashboard.png)
 
 
 ---
