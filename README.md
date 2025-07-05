@@ -10,7 +10,7 @@
 
 ### 🌾 Smart Farming Analytics (Guardneer Internship)
 - Tableau + Python + Feature Engineering
-- [View Project](./1-water-quality-dashboard)) | [Dashboard Screenshot](link)
+- [View Project](./1-water-quality-dashboard)) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e39a8f115dac1c15afdf3133e6bff2c1ef7776f7/1-water-quality-dashboard/Guardneer%20Dashboard.png)
 
 ### 💧 Water Quality Monitoring
 - Tableau KPI Dashboard for maintenance risk & delays
