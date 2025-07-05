@@ -10,11 +10,11 @@
 
 ### 🌾 Smart Farming Analytics (Guardneer Internship)
 - Tableau + Python + Feature Engineering
-- [View Project](./1-water-quality-dashboard)) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e39a8f115dac1c15afdf3133e6bff2c1ef7776f7/1-water-quality-dashboard/Guardneer%20Dashboard.png)
+- [View Project](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/tree/2f333579d7c141f362cbf931e772023354a80c20/1-water-quality-dashboard) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e39a8f115dac1c15afdf3133e6bff2c1ef7776f7/1-water-quality-dashboard/Guardneer%20Dashboard.png)
 
 ### 💧 Water Quality Monitoring
 - Tableau KPI Dashboard for maintenance risk & delays
-- [View Project](./2_Guardneer-Customer-Segmentation-Dashboard) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
+- [View Project](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/tree/2f333579d7c141f362cbf931e772023354a80c20/2_Guardneer-Customer-Segmentation-Dashboard) | [Dashboard Screenshot](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
 
 ### 👥 Customer Segmentation ML Model
 - Python + Clustering + Dashboard Integration
