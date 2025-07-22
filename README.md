@@ -8,8 +8,8 @@
 
 ## 📊 ExcelR Data Analytics Certification
 
-- 🔗 [View Certificate PDF](./https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/59bfef012b1d49d3a0304699482d4a5d83bc9c5e/ExcelR_DA_Certificate_Rutikesh.pdf)  
-![ExcelR Certificate Preview](./https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/59bfef012b1d49d3a0304699482d4a5d83bc9c5e/ExcelR_DA_Certificate_Rutikesh.jpg)
+- 🔗 [View Certificate PDF](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/59bfef012b1d49d3a0304699482d4a5d83bc9c5e/ExcelR_DA_Certificate_Rutikesh.pdf)  
+![ExcelR Certificate Preview](https://github.com/rutikeshpawar/Rutikesh-Certificates/blob/59bfef012b1d49d3a0304699482d4a5d83bc9c5e/ExcelR_DA_Certificate_Rutikesh.jpg)
 
 > Completed with distinction. Skills covered: SQL, Excel, Power BI, Tableau, Python, EDA, ML, Dashboarding.
 
